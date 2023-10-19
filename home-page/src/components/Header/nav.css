@@ -1,0 +1,29 @@
+.end{
+    padding-left: 60%;
+}
+.Nav_title{
+    padding-top: 7%;
+    color: black;
+}
+.Nav_title:hover{
+    color:orange;
+}
+.Button1:hover{
+   background-color: orange
+}
+.Button1{
+    width:190%;
+}
+@media (max-width: 991px) {
+    .end{
+        padding-left: 10%;
+    }
+    .Button1{
+        width:20%;
+    }
+    .Nav_title{
+        padding-top: 1%;
+        color: black;
+    }
+}
+    
