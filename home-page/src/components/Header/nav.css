@@ -1,15 +1,20 @@
+header{
+  background-color: white;
+}
 .end{
     padding-left: 60%;
 }
 .Nav_title{
     padding-top: 7%;
     color: black;
+    text-decoration: none;
 }
 .Nav_title:hover{
-    color:orange;
+    color:#fe8303;
+    text-decoration: none;
 }
 .Button1:hover{
-   background-color: orange
+   background-color: #fe8303
 }
 .Button1{
     width:190%;
