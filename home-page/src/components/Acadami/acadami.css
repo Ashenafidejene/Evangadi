@@ -1,0 +1,79 @@
+.Acadami{
+    display: flex;
+}
+.steps,.All{
+    width: 50%;
+   
+}
+.All{
+    margin-left: 20%;
+    padding-right: 2%;
+}
+.container1 {
+    text-align: left ;
+    padding: 10%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+   
+}
+.steps{
+    text-align: left ;
+    padding-right: 20%;
+}
+.h4{
+  text-align: center;
+  padding-top: 7px;
+  display: block;
+  visibility: hidden;
+}
+.PTitle{
+    font-size:15px;
+}
+.PDiss{
+    font-size:13px;
+    font-weight: lighter;
+    text-decoration: none;
+    color: black;
+}
+.PDis{
+    font-size:13px;
+    font-weight: lighter;
+    color: black;
+}
+.phase{
+    margin: 5%;
+}
+.PMore{
+    font-weight: 100;
+}
+.PhaseTitle{
+    font-size: 17px;
+    font-weight: 500;
+}
+.Button4:hover{
+    background-color: #fe8303;
+}
+.forSize{
+    width: 100%
+}
+.contain{
+    background-color: gainsboro;
+}
+.amharic{
+   font-size:10px;
+   color: gray;
+}
+.titleName{
+    font-size: 45px;
+    color: #62626f;
+    padding-bottom: 3%;
+}
+button{
+    background-color: white;
+}
+@media (max-width: 991px) {
+    .All{
+        margin-left: 10%;
+        padding-right: 1%;
+    }
+}

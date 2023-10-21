@@ -1,0 +1,38 @@
+{
+    "evangadi":[
+        {
+            "header3":"Step 1: Clearly understand WHY you have to learn a technology field",
+            "description":"If you are reading this, we understand you are already interested to learn a technology field. But, we have repeatedly noticed that this decision is made based on wrong assumptions. For example, some people assume it is an easy shortcut to get a well paying job with in 3 months. IT IS NOT!! Please start by watching this video to clearly understand WHY you have to learn a technology field.",
+            "url":"https://www.youtube.com/watch?v=Hx1i_GBiXNA",
+            "image":"https://www.evangadi.com/files/misc/thumbs/whyTech-thumb-play.jpg",
+            "videoTitle":"ሁሉም ሰው ለምን ኮዲንግ/CODING መማር አለበት?",
+            "videoDes":"ኮዲንግ/coding መማር እኔን አይመለከትም ብላችሁ የምታስቡ ከሆነ፣ ይህ ቪድዮ በዋነኛነት ለእናንተ የተሰራ ነው።"
+            
+        },
+        {
+            "header3":"Step 2: Carefully choose the right field to learn",
+            "description":"Once you clearly understand WHY you have to learn a tech field, you have to carefully choose a field to study first. As an outsider trying to get into the tech world, you probably have heard multiple suggestions such as SQL, AWS, Web Development, MuleSoft, SharePoint, QA or many other fields. Please watch this video to understand which one is right for you. ",
+            "url":"https://www.youtube.com/watch?v=M-scNzY9B7k",
+            "image":"https://www.evangadi.com/files/misc/thumbs/whichField-thumb-play.jpg",
+            "videoTitle":"አዲስ ጀማሪዎች መምረጥ ያለባችሁ የቴክኖሎጂ ፊልዶች",
+            "videoDes":"ለቴክኖሎጂ ፊልድ ጀማሪ ከሆናችሁና የትኛውን የቴክኖሎጂ ፊልድ ብታጠኑ የተሻለ የስኬት እድል እንደሚኖራችሁ ግላጽ ላልሆነላችሁ ሰዎች፣ አማራጮቻችሁን ለመጠቆም የተሰራ ቪድዮ"
+            
+        },
+        {
+            "header3":"Step 3: Understand the course we teach",
+            "description":"If learning Fullstack Web Development is the right fit for you, that is the course we teach. Please watch this video to understand our curriculum, class hours and course structure.",
+            "url":"https://www.youtube.com/watch?v=hYWbmKQF-dI",
+            "image":"https://www.evangadi.com/files/misc/thumbs/mern-thumb-play.jpg",
+            "videoTitle":"የፉል ስታክ ዌብ ደቨሎፕመንት ኮርስ (Full Stack Web Development - MERN Stack)",
+            "videoDes":" "
+        },
+        {
+            "header3":"Step 4: Understand what it takes to successfully transition and become a tech professional",
+            "description":"As you probably understand by now, we cover a lot of topics with in the 5 month period of the course. Needless to say, it requires a lot of focus and dedication to successfully complete the course. If we try to put it in terms of hours, it requires you to spend 3 - 4 hours a day continuously throughout the course. Other than that, it doesn't require you to have a tech background as we prepared the course for absolute beginners.",
+            "url":"https://www.youtube.com/watch?v=wqxqCMWk18U",
+            "image":"https://www.evangadi.com/files/misc/thumbs/open-discussion-thumb.jpg",
+            "videoTitle":"አዲስ ወደ ቴክኖሎጂ ፊልድ ለመቀላቀል እየሞከሩ ካሉ ሰዎች ጋር የተደረገ ውይይት",
+            "videoDes":"በዚህ መድረክ ላይ በርካታ ጠቀሜታ ያላቸው ጥያቄዎች ተነስተው በሰፊው ተወያይተንባቸዋል"
+        }
+    ]
+}
