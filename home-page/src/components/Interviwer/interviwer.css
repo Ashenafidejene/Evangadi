@@ -1,0 +1,26 @@
+.forSample{
+   background-color: gainsboro;
+  
+}
+.image-v{
+    width:100%;
+    text-align: left;
+}
+.V-title{
+    color: #000;
+    text-align: left;
+    padding: 2%;
+    text-decoration: none;
+}
+.V-title:hover{
+    color: #000;
+    text-decoration: underline;
+}
+.titleNames{
+    font-size: 45px;
+    color: #62626f;
+    padding-bottom: 1%;
+}
+.pod{
+    padding-left: 15%;
+}
