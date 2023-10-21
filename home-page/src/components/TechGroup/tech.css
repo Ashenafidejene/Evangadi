@@ -1,0 +1,18 @@
+.Tech{
+    display: block;
+}
+.Sample1{
+    display:block;
+    width : 33%;
+    text-align: left;
+    padding: 3%;
+    
+}
+.TechSection{
+    display: flex;
+    padding-left: 20%;
+    padding-right: 20%
+}
+.sampleImage{
+    width:45%
+}
