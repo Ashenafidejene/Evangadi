@@ -20,7 +20,22 @@
     font-size: 45px;
     color: #62626f;
     padding-bottom: 1%;
+    padding-top: 3%;
 }
 .pod{
     padding-left: 15%;
+}
+.ScholarShip{
+    background-color: gainsboro;
+    text-align: center;
+    margin-top:3%;
+}
+.forClarification{
+    text-align: left;
+    padding-left: 15%;
+    padding-bottom: 5%;
+    padding-top: 3%;
+}
+.subtitle{
+    font-size:17px;
 }
