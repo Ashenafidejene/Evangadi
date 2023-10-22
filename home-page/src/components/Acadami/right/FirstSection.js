@@ -3,8 +3,8 @@ import Button from 'react-bootstrap/esm/Button'
 const FirstSection = () => {
   return (
 <>
-<button type="button" class="btn btn-light"></button>
-    <div className='firstSection shadow phase'>
+
+<Button className='firstSection shadow phase' variant="light"><div >
          <h4 className="white h4">
         Next class will start on Aug 21 , 2003
     </h4 >
@@ -35,7 +35,7 @@ const FirstSection = () => {
     <h5 className='PTitle' >$1800 <del className=' PDis'>/ $2400</del></h5>
     </div>
    
-    </div>
+    </div></Button>
      <Button className="Button4" variant="primary"> <spam  className='ButtonSpan'>Request to join class</spam></Button>
      </>
   )
