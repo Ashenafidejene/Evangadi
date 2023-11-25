@@ -15,10 +15,12 @@ const SignIn = () => {
       inputElement.style.border = '0.5px solid black';
       inputElement.style.boxShadow = 'none';
       inputElement.style.borderBottom = '3px solid #fe8303';
+      inputElement.style.transition = 'border-color 0.3s ease';
     };
   
     const handleBlur = (inputElement, previousStyles) => {
       inputElement.style.border = previousStyles.border;
+     // inputElement.style.transition = 'border-color 0.3s ease';
       inputElement.style.borderBottom = previousStyles.borderBottom;
     };
   
